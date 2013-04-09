@@ -43,3 +43,10 @@ By default, a server containing one stream will look like this:
     	/cgi-bin/
       		edit.py
       		save.py
+
+Screenshots
+-----------
+
+[Viewing a stream](https://github.com/davidkidd/speck_reader/raw/master/screenshots/img_stream.png)
+
+[Editing a stream](https://github.com/davidkidd/speck_reader/raw/master/screenshots/img_edit_stream.png)
