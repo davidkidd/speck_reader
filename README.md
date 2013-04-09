@@ -17,8 +17,9 @@ It's designed for personal use. You can make feeds public and protect them with 
 Requirements
 ------------
 
+* Some kind of Unix; OS X should work too
 * Know how to set up a web server to run Python scripts
-* Python 2.6 (requires lxml)
+* Python 2.6 - 2.x (requires lxml)
 
 Installation
 ------------
