@@ -31,7 +31,7 @@ Installation
 3. Configure rss_merge.py to point at your web server's root directory. This *must* be one level above cgi-bin.
 4. Create a stream by going to your_server/cgi-bin/edit.py
 5. Save it and bookmark the link. The link will only update when rss_merge.py is executed.
-6. The stream file contains the title, PIN (or null if no PIN) and the feeds. The file looks like this: 3c9fbc0f-bf14-4f3a-a61e-d13b54bce86f.feeds
+6. The stream file contains the title, PIN (or null if no PIN) and the feeds. The stream file is used by rss_merge.py to generate a corresponding static HTML page for the stream.
 7. Create a cron job to run rss_merge.py however often you like
 8. rss_merge.py will create HTML files from the information in the stream file.
 
